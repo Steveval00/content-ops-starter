@@ -287,7 +287,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: Contattami
         altText: ''
         url: /
         showIcon: false

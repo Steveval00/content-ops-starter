@@ -406,7 +406,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Feature Item Four
-        tagline: This is the tagline
+        tagline: In azienda
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.

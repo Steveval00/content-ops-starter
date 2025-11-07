@@ -62,7 +62,7 @@ sections:
     subtitle: Suggeritemi un sottotitolo
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Scuole elementari
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

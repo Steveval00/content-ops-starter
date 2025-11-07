@@ -11,7 +11,7 @@ sections:
     text: >
       Ciao! Mi chiamo Stefano, sono un ragazzo creativo e con voglia di fare. Mi
       sono laureato in informatica per la comunicazione digitale all'università
-      degli studi di Milano, ma ho fatto altre cose più interessanti...
+      degli studi di Milano, ma ho fatto anche cose più interessanti...
     actions:
       - label: Contattami
         altText: ''

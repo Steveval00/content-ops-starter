@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Stefano Valenti
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Ciao! Mi chiamo Stefano, sono un ragazzo creativo e con voglia di fare. Mi
+      sono laureato in informatica per la comunicazione digitale all'università
+      degli studi di Milano, ma ho fatto altre cose più interessanti...
     actions:
       - label: Get started
         altText: ''

@@ -7,7 +7,7 @@ sections:
       text: Portfolio
       color: text-dark
       type: TitleBlock
-    subtitle: Stefano Valenti
+    subtitle: di Stefano Valenti (io)
     text: >
       Ciao! Mi chiamo Stefano, sono un ragazzo creativo e con voglia di fare. Mi
       sono laureato in informatica per la comunicazione digitale all'università

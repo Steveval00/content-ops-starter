@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Progetti
+      text: Formazione
       color: text-dark
       styles:
         self:

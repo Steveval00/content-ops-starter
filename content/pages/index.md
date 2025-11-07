@@ -13,7 +13,7 @@ sections:
       sono laureato in informatica per la comunicazione digitale all'università
       degli studi di Milano, ma ho fatto altre cose più interessanti...
     actions:
-      - label: Get started
+      - label: Contattami
         altText: ''
         url: /
         showIcon: false

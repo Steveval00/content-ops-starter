@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/Foto_Laurea.jpg
+      url: /images/Foto_Laurea2.jpg
       altText: La mia foto di laurea
       elementId: ''
       type: ImageBlock

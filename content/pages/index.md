@@ -202,7 +202,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Esperienze lavorative
       color: text-dark
       styles:
         self:

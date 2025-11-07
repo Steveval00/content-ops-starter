@@ -593,7 +593,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Progetti a cui ho lavorato
       color: text-primary
       styles:
         self:

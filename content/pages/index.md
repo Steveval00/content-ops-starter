@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Contattami con freccia
+      - label: Contattami con freccia a destra
         altText: ''
         url: /
         showIcon: true

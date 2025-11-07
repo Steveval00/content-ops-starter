@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: M
+      label: ormai nessuno leggi i curriculum
       color: text-primary
       type: Badge
     elementId: ''

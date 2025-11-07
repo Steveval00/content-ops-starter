@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/Foto_Laurea.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: La mia foto di laurea
       elementId: ''
       type: ImageBlock
     badge:
